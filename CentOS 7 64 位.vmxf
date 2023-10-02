@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 20 80 2b 1b a8 49 ab-24 e6 62 fa e1 fe 27 e0</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">CentOS 7 64 &amp;#xE4;&amp;#xBD;&amp;#x8D;.vmx</vmxPathName></VM></Foundry>
